@@ -1,0 +1,59 @@
+#cris{
+  color: rgb(223, 223, 223);
+  border: 2px solid rgb(223, 223, 223);
+  background-color: rgb(75, 75, 75);
+  display: flex
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 24px;
+  }
+  
+  /* Estilos para a seção principal */
+  main {
+   border : 3px;
+    color:rgb(75, 75, 75);
+    font-size: 20px;
+  }
+  
+  .grid img{
+    padding: 20px;
+  }
+
+  .grid p{
+    border: 4px;
+  }
+
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 15px;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 14px;
+  }
+  
+  /* Estilos gerais */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
